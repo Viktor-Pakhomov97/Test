@@ -1,5 +1,6 @@
 package com.pakhomovHW5;
 
+
 //Student: id, Фамилия, Имя, Отчество, Год рождения, Адрес, Телефон, Факультет, Курс, Группа.
 public class Student {
     private int id;

@@ -18,6 +18,7 @@ package com.pakhomovHW5;
  * d) список учебной группы. - Группа
  */
 //Student: id, Фамилия, Имя, Отчество, Год рождения, Адрес, Телефон, Факультет, Курс, Группа.
+
 public class TestStudent {
     public static void main(String[] args) {
         int id = 1111;
