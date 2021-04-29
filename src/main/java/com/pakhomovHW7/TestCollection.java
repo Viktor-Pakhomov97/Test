@@ -8,7 +8,7 @@ public class TestCollection {
         c1.addIndex("5", 2);
         c1.addValue("0");
         c1.addValue("6");
-        c1.removeIndex(2);
+        c1.removeIndex(5);
         c1.removeElement("1");
         c1.printIdexList(0);
 

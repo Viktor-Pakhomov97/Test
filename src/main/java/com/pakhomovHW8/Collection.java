@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class Collection implements CollectionI {
     private String[] mas = {"1", "2", "3"};
-    private String[] mas2 = {"1", "1", "2", "3", "6"};
+    private String[] mas2 = {"1","1","2","3","6"};
 
     public String[] getMas2() {
         return mas2;
@@ -111,7 +111,7 @@ public class Collection implements CollectionI {
     }
 
     public boolean equals(String[] masExmp) {
-        boolean result = Arrays.equals(mas, masExmp);
+        boolean result = Arrays.equals(mas,mas2);
         System.out.println(result);
         return true;
     }

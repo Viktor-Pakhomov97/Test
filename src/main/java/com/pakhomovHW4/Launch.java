@@ -36,6 +36,5 @@ public class Launch {
             sum *= expenses;
             System.out.println("Затраты на топливо составили: " + sum + " UAH");
         }
-
     }
 }
