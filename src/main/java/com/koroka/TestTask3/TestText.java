@@ -3,6 +3,7 @@ package com.koroka.TestTask3;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 public class TestText {
     public static void main(String[] args) {
         List<String> text = new ArrayList<>();

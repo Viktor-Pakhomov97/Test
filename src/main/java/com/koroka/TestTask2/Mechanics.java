@@ -2,6 +2,7 @@ package com.koroka.TestTask2;
 
 import java.util.Arrays;
 import java.util.Scanner;
+
 public class Mechanics {
     Scanner sc = new Scanner(System.in);
     private int size;
